@@ -1,6 +1,6 @@
 //INLINE PROPS
 
-// export function Hello(props: { name: string }) {
+// export function Hello(props: { name: string, age: number }) {
 //     return (
 //       <div>
 //         Hello {props.name} who is {props.age}
